@@ -139,3 +139,44 @@ body{
     font-weight: 600;
     margin-top: 8%;
 }
+
+#about-us ul li{
+    margin: 10px 0px;
+}
+
+
+/* !========================================== Testimonials Section Apply starts Here ====================================== */
+
+#testimonials{
+    margin: 100px 0px;
+}
+
+.testimonials{
+    border-left: 4px solid #7b1798;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.testimonials img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0px 10px;
+}
+
+.user-deatils{
+    display: inline-block;
+    font-size: 13px;
+}
+
+
+/* !========================================== Social Media Section Apply starts Here ====================================== */
+
+#social-media{
+    background-color: #f8f9fa;
+    padding: 100px 0px;
+}
+
+#social-media p{
+    font-size: 36px;
+}
